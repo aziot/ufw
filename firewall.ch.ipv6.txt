@@ -1,9 +1,3 @@
-# -------------------------------------------------------
-# Free IP2Location Firewall List by Country
-# Source: https://www.ip2location.com/free/visitor-blocker
-# Last Generated: 15 Feb 2022 21:34:15 GMT
-# [Important] Please update this list every month
-# -------------------------------------------------------
 2A03:2880:F05B:FFFF::16F/128
 2A03:2880:F15B:83:FACE:B00C::25DE/128
 2A03:2880:F25B:CC:FACE:B00C::43FE/128
